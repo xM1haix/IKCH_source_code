@@ -1,6 +1,4 @@
-# webtestapp
-
-A new Flutter project.
+# Helper for Idle Kingdom Clikcer
 
 ## Getting Started
 
